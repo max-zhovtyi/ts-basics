@@ -1,0 +1,1 @@
+To run any ts files, run "npm i" to install typescript locally and use commend "npx tsc .\basics.ts" to run file.
